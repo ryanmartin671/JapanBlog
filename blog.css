@@ -84,11 +84,12 @@ html, a{
  
 .left {
   float: left;
+  width: auto;
 }
  
 .right, 
 .left { 
-  margin: 2%;
+  margin: 3%;
   width: 30%;
   min-width: 100px;
 }
@@ -197,6 +198,18 @@ div img {
 
 div br {
   clear: left;
+}
+
+.bigimg {
+  margin-top: 10px;
+}
+
+.pimg{
+  width: 50%;
+}
+
+.shrine1 {
+  margin-right: 0;
 }
 
 /*For Tablet*/
