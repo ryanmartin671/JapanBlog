@@ -145,8 +145,15 @@ footer{
   font-weight: bold;
 } 
 
+.footh2 {
+  margin-top: 0;
+}
+
+footer {
+  height: 50px;
+}
+
 footer img{
-  width: 25%;
   vertical-align: middle;
 }
 
@@ -278,4 +285,11 @@ div br {
     font-size: 90%;
   }
    
+  .footh2 {
+    margin-top: 0;
+  }
+  
+  footer {
+    height: 10%;
+  }
 }
